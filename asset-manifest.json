@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Pocket-Diary/static/css/main.bad8f51c.css",
+    "main.js": "/Pocket-Diary/static/js/main.687f4909.js",
+    "static/js/453.9b15988b.chunk.js": "/Pocket-Diary/static/js/453.9b15988b.chunk.js",
+    "index.html": "/Pocket-Diary/index.html",
+    "main.bad8f51c.css.map": "/Pocket-Diary/static/css/main.bad8f51c.css.map",
+    "main.687f4909.js.map": "/Pocket-Diary/static/js/main.687f4909.js.map",
+    "453.9b15988b.chunk.js.map": "/Pocket-Diary/static/js/453.9b15988b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bad8f51c.css",
+    "static/js/main.687f4909.js"
+  ]
+}
